@@ -9,7 +9,7 @@
 - [ ] HikariCP data.
 - [ ] Data layout HikariCP and Mybatis integrate.
 
-##### Current learning cover imooc chapter progress 
+##### Current learning cover coursera chapter progress 
 
 **Chapter: 2-12**
 
